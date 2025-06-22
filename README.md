@@ -17,6 +17,6 @@ A minimalist Python tool that dissects email addresses into username and domain 
 python email_slicer.py
 
 # Sample output:
-Enter email: john.doe@gmail.com
-├─ Username: john.doe
+Enter email: nityashree@gmail.com
+├─ Username: nityashree
 └─ Domain: gmail.com
